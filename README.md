@@ -14,13 +14,13 @@ Ce portfolio rassemble mes projets de 2026–2027 en Python, CAO, simulation et 
 
 ## Projets
 
-| Projet | Domaine | Outils | Statut |
-| --- | --- | --- | --- |
-| [Traitement automatique de mesures de rugosité](#) | Données d'essais | Python, pandas, Matplotlib | 🟡 En cours |
-| [CAO paramétrique de boîtes de montre](#) | Automatisation CAO | Python, API SolidWorks / FreeCAD | ⚪ Prévu |
-| [Détection de défauts de surface par IA](#) | Vision / contrôle qualité | PyTorch, Hugging Face | ⚪ Prévu |
-| [Étude FEM de la liaison corne/carrure](#) | Simulation | SolidWorks Simulation / Ansys | ⚪ Prévu |
-| [Chronocomparateur embarqué](#) | Mécatronique | STM32, C/C++, électronique analogique | ⚪ Prévu |
+| Projet                                             | Domaine                   | Outils                                | Statut     |
+| -------------------------------------------------- | ------------------------- | ------------------------------------- | ---------- |
+| [Traitement automatique de mesures de rugosité](#) | Données d'essais          | Python, pandas, Matplotlib            | 🟡 En cours |
+| [CAO paramétrique de boîtes de montre](#)          | Automatisation CAO        | Python, API SolidWorks / FreeCAD      | ⚪ Prévu    |
+| [Détection de défauts de surface par IA](#)        | Vision / contrôle qualité | PyTorch, Hugging Face                 | ⚪ Prévu    |
+| [Étude FEM de la liaison corne/carrure](#)         | Simulation                | SolidWorks Simulation / Ansys         | ⚪ Prévu    |
+| [Chronocomparateur embarqué](#)                    | Mécatronique              | STM32, C/C++, électronique analogique | ⚪ Prévu    |
 
 ## Certifications
 
@@ -36,5 +36,5 @@ Ce portfolio rassemble mes projets de 2026–2027 en Python, CAO, simulation et 
 
 ## Contact
 
-- LinkedIn : [à compléter](https://www.linkedin.com/in/TON-PROFIL)
-- E-mail : à compléter
+- LinkedIn : [Kossi Didier Lokokpe](https://www.linkedin.com/in/didier-lokokpe-4362a2267)
+- E-mail : lokokpe96@gmail.com
